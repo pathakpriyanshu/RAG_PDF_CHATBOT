@@ -70,7 +70,16 @@ Then open [http://localhost:8000](http://localhost:8000) in your browser.
 ---
 
 ## 📸 Screenshots
+# 1. Start
 ![UI Screenshot](screenshots/ss_1.jpg)
+
+# 2. Uploading of PDF
+![UI Screenshot](screenshots/ss_2.jpg)
+
+# 3. Asking query
+![UI Screenshot](screenshots/ss_3.jpg)
+
+
 
 
 
