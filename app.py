@@ -28,7 +28,7 @@ text_splitter = RecursiveCharacterTextSplitter(chunk_size=300, chunk_overlap=50)
 @cl.on_chat_start
 async def on_chat_start():
 
-    elements = [
+    # elements = [
     # cl.Image(name="image_my", display="inline", path= r'D:\1. INDIUM\Project\DATA\project_2_data\indiumsoftware_logo.jpeg')
     # ]
     await cl.Message(
